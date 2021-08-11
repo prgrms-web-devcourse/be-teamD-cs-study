@@ -27,7 +27,7 @@
 > *데브 코스 TIL PR 방식을 따름*
 
 #### 💡 초기 설정
-1. `be-teamD-cs-study` 저장소를 내 계정으로 fork
+1. `be-teamD-cs-study` 저장소를 내 계정으로 fork (`prgrms-web-devcourse/be-teamD-cs-study` 저장소의 `{githubID}` 브랜치들은 미리 생성해놨습니다!)
 2. fork된 repository에도 새로운 브랜치를 생성합니다. `{githubID}`
 3. fork된 repository를 clone 받습니다.
 4. 작업할 브랜치를 변경합니다 `git switch {githubID}`
