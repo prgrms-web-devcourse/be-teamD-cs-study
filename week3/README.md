@@ -1,3 +1,13 @@
-인터페이스와 추상클래스에 대한 발표자료를 공유합니다.
-[인터페이스와 추상클래스](https://docs.google.com/presentation/d/1p2A26IAulctWVub4zKky6ahmoW0AHWAte5A7-L_qXwk/edit?usp=sharing)
-자료는 Git에서 다운로드가 가능합니다.
+# 3주차 자유주제
+* 21.08.27(금) 발표
+
+## Keywords
+|담당|키워드|
+|-|-|
+|심수현|Enum 활용|
+|김은서|일급 컬렉션|
+|정은우|팩토리 메서드|
+|김지훈|상속 & 인터페이스|
+|이상민|UNIX Socket|
+|한맹희|해시 충돌 해결|
+|유지훈|Blocking, Non-Blocking|
